@@ -3,3 +3,4 @@
 2) Support Vector Regression
 3) NLP Classification
 4) DecisionTree-BreastCancer
+5) One Hot Encoding
